@@ -25,3 +25,4 @@ COMP 3104 will provide a hands-on experience through the implementation of tried
  1098  git branch pritesh
  1099  git branch
  1100  git p
+Devops lifecycles waterfall,Continuous Feedback
