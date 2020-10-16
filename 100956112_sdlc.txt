@@ -9,4 +9,6 @@ mundane or complex nature
 • Enforce best security practices
 • Expedite product delivery
 • Improve communication and
-collaboration across teams
+collaboration across teams.
+
+Devops is important to learn for software deployment.
