@@ -1,3 +1,27 @@
 COMP3104 DevOps
 
-This course is designed to better prepare professionals entering the IT field. Specifically, a field where servers, web apps and infrastructure will be core to business needs.   COMP 3104 will provide a hands-on experience through the implementation of tried, tested and true DevOps technologies
+This course is designed to better prepare professionals entering the IT field. 
+Specifically, a field where servers, web apps and infrastructure will be core to business needs.   
+COMP 3104 will provide a hands-on experience through the implementation of tried, tested and true DevOps technologies
+ 1079  touch pritesh.txt
+ 1080  git status
+ 1081  git commit -m "New file added by Pritesh"
+ 1082  git add pritesh.txt
+ 1083  git commit -m "New file added by Pritesh"
+ 1084  git staus
+ 1085  git status
+ 1086  ls
+ 1087  git pull
+ 1088  git push origin master
+ 1089  ls
+ 1090  git pull
+ 1091  ls
+ 1092  git remote -v
+ 1093  histiry
+ 1094  clear
+ 1095  history
+ 1096  history -100
+ 1097  git branch
+ 1098  git branch pritesh
+ 1099  git branch
+ 1100  git p
